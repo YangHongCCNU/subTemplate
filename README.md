@@ -1,6 +1,6 @@
 # sub template
 
-Basic setting copied from[lzdnico](https://github.com/lzdnico/subconverteriniexample)
+Basic setting copied from [lzdnico](https://github.com/lzdnico/subconverteriniexample)
 
 rules folder for backup
 
