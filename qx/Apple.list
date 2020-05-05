@@ -1,0 +1,50 @@
+# 如无特殊需求可不用加此策略及选择代理，在大部分地区 Apple CDN 可正常工作，使用代理后可能导致「Cannot Connect to iCloud」等问题
+# > Apple
+DOMAIN-SUFFIX,appstore.com,🍎 Apple
+DOMAIN-SUFFIX,crashlytics.com,🍎 Apple
+DOMAIN,www-cdn.icloud.com.akadns.net,🍎 Apple
+
+# Apple_CDN.list
+# Apple Music
+DOMAIN,aod.itunes.apple.com,🍎 Apple
+DOMAIN,api.smoot.apple.cn,🍎 Apple
+DOMAIN,music.apple.com,🍎 Apple
+DOMAIN,mvod.itunes.apple.com,🍎 Apple
+# > App Store
+USER-AGENT,com.apple.appstored*,🍎 Apple
+DOMAIN-SUFFIX,mzstatic.com,🍎 Apple
+DOMAIN,iosapps.itunes.apple.com,🍎 Apple
+DOMAIN,osxapps.itunes.apple.com,🍎 Apple
+# > Update
+DOMAIN,supportdownload.apple.com,🍎 Apple
+DOMAIN,appldnld.apple.com,🍎 Apple
+DOMAIN,swcdn.apple.com,🍎 Apple
+DOMAIN,apptrailers.itunes.apple.com,🍎 Apple
+DOMAIN,updates-http.cdn-apple.com,🍎 Apple
+# > Map
+DOMAIN-SUFFIX,ls.apple.com,🍎 Apple
+DOMAIN,gs-loc-cn.apple.com,🍎 Apple
+
+# Apple_API.list
+DOMAIN-SUFFIX,aaplimg.com,🍎 Apple
+DOMAIN-SUFFIX,apple.co,🍎 Apple
+DOMAIN-SUFFIX,apple.com,🍎 Apple
+DOMAIN-SUFFIX,apple-cloudkit.com,🍎 Apple
+DOMAIN-SUFFIX,appsto.re,🍎 Apple
+DOMAIN-SUFFIX,cdn-apple.com,🍎 Apple
+DOMAIN-SUFFIX,icloud.com,🍎 Apple
+DOMAIN-SUFFIX,icloud-content.com,🍎 Apple
+DOMAIN-SUFFIX,itunes.com,🍎 Apple
+DOMAIN-SUFFIX,me.com,🍎 Apple
+IP-CIDR,17.0.0.0/8,🍎 Apple,no-resolve
+IP-CIDR,63.92.224.0/19,🍎 Apple,no-resolve
+IP-CIDR,65.199.22.0/23,🍎 Apple,no-resolve
+IP-CIDR,139.178.128.0/18,🍎 Apple,no-resolve
+IP-CIDR,144.178.0.0/19,🍎 Apple,no-resolve
+IP-CIDR,144.178.36.0/22,🍎 Apple,no-resolve
+IP-CIDR,144.178.48.0/20,🍎 Apple,no-resolve
+IP-CIDR,192.35.50.0/24,🍎 Apple,no-resolve
+IP-CIDR,198.183.17.0/24,🍎 Apple,no-resolve
+IP-CIDR,205.180.175.0/24,🍎 Apple,no-resolve
+# Apple News
+DOMAIN-SUFFIX,apple.news,🍎 Apple
