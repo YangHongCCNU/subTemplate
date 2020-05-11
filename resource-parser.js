@@ -40,7 +40,7 @@ var content0=$resource.content;
 var para=decodeURIComponent($resource.link);
 var type0=Type_Check(content0);
 var Pin0=para.indexOf("in=")!=-1? para.split("#")[1].split("in=")[1].split("&")[0].split("+"):null;
-var Pout0=para.indexOf("out=")!=-1? "到期|流量|时间|官网|续费|IPV6|网址|试用".split("|"):null;
+var Pout0="续费|IPV6|网址|试用".split("|");
 var Pemoji=1;
 var Pudp0=para.indexOf("udp=")!=-1? para.split("#")[1].split("udp=")[1].split("&")[0].split("+"):0;
 var Ptfo0=para.indexOf("tfo=")!=-1? para.split("#")[1].split("tfo=")[1].split("&")[0].split("+"):0;
