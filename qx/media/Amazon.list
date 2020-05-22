@@ -1,0 +1,16 @@
+# > Amazon Prime Video
+USER-AGENT,InstantVideo.US*,🎬 PrimeVideo
+USER-AGENT,Prime%20Video*,🎬 PrimeVideo
+DOMAIN-SUFFIX,aiv-cdn.net,🎬 PrimeVideo
+DOMAIN-SUFFIX,aiv-delivery.net,🎬 PrimeVideo
+DOMAIN-SUFFIX,primevideo.com,🎬 PrimeVideo
+DOMAIN,avodmp4s3ww-a.akamaihd.net,🎬 PrimeVideo
+DOMAIN,d25xi40x97liuc.cloudfront.net,🎬 PrimeVideo
+DOMAIN,dmqdd6hw24ucf.cloudfront.net,🎬 PrimeVideo
+DOMAIN,d22qjgkvxw22r6.cloudfront.net,🎬 PrimeVideo
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net,🎬 PrimeVideo
+DOMAIN-KEYWORD,avoddashs,🎬 PrimeVideo
+DOMAIN-SUFFIX,amazonaws.co.uk,🎬 PrimeVideo
+DOMAIN-SUFFIX,amazonaws.com,🎬 PrimeVideo
+DOMAIN-SUFFIX,amazonvideo.com,🎬 PrimeVideo
+DOMAIN-SUFFIX,llnwd.net,🎬 PrimeVideo
