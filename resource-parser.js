@@ -1,5 +1,5 @@
 /** 
-#Quantumult X 资源解析器 (2020-06-11: 00:33)
+#Quantumult X 资源解析器 (2020-06-12: 22:27)
 
 本资源解析器作者: Shawn(@XIAO_KOP), 有问题请反馈: @Shawn_KOP_bot
 
