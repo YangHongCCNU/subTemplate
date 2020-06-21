@@ -1,5 +1,5 @@
 /** 
-#Quantumult X 资源解析器 (2020-06-12: 22:27)
+#Quantumult X 资源解析器 (2020-06-21: 21:27)
 
 本资源解析器作者: Shawn(@XIAO_KOP), 有问题请反馈: @Shawn_KOP_bot
 
@@ -40,7 +40,7 @@ var content0=$resource.content;
 var para=decodeURIComponent($resource.link);
 var type0=Type_Check(content0);
 var Pin0=para.indexOf("in=")!=-1? para.split("#")[1].split("in=")[1].split("&")[0].split("+"):null;
-var Pout0="续费|网址|试用|公益".split("|");
+var Pout0="续费|网址|试用|公益|回国".split("|");
 var Pemoji=2;
 var Pudp0=para.indexOf("udp=")!=-1? para.split("#")[1].split("udp=")[1].split("&")[0].split("+"):0;
 var Ptfo0=para.indexOf("tfo=")!=-1? para.split("#")[1].split("tfo=")[1].split("&")[0].split("+"):0;
