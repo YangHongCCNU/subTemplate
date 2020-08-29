@@ -150,15 +150,15 @@ DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,miguvideo.com
 # > Microsoft
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,msecnd.net
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,s-microsoft.com
-DOMAIN-SUFFIX,visualstudio.com
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,windowsupdate.com
-DOMAIN,officecdn-microsoft-com.akamaized.net
+# DOMAIN-SUFFIX,microsoft.com
+# DOMAIN-SUFFIX,msecnd.net
+# DOMAIN-SUFFIX,office365.com
+# DOMAIN-SUFFIX,outlook.com
+# DOMAIN-SUFFIX,s-microsoft.com
+# DOMAIN-SUFFIX,visualstudio.com
+# DOMAIN-SUFFIX,windows.com
+# DOMAIN-SUFFIX,windowsupdate.com
+# DOMAIN,officecdn-microsoft-com.akamaized.net
 # > NetEase
 USER-AGENT,NeteaseMusic*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
