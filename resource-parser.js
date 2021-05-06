@@ -1,5 +1,5 @@
 /** 
-☑️ 资源解析器 ©𝐒𝐡𝐚𝐰𝐧  ⟦2021-05-01 21:20⟧
+☑️ 资源解析器 ©𝐒𝐡𝐚𝐰𝐧  ⟦2021-05-06 22:09
 ----------------------------------------------------------
 🛠 发现 𝐁𝐔𝐆 请反馈: @Shawn_KOP_bot
 ⛳️ 关注 🆃🅶 相关频道: https://t.me/QuanX_API
@@ -99,8 +99,6 @@
 ////// 非 raw 链接的沙雕情形
 // content0 = content0.indexOf("DOCTYPE html") != -1 && link0.indexOf("github.com") != -1 ? ToRaw(content0) : content0 ;
 //ends 正常使用部分，調試註釋此部分
-
-#info=1&emoji=1&out=续费+网址+试用+公益+用户+订阅+流量+精简+IPV6
 
 var para = /^(http|https)\:\/\//.test(link0) ? link0 : content0.split("\n")[0];
 var para1 = para.slice(para.indexOf("#") + 1).replace(/\$type/g,"node_type_para_prefix").replace(/\$emoji/g,"node_emoji_flag_prefix") //防止参数中其它位置也存在"#"
