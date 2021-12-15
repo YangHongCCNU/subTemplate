@@ -1,5 +1,8 @@
 DOMAIN-KEYWORD, ipify
+DOMAIN-KEYWORD, cloudflare
+DOMAIN-KEYWORD, wakatime
 DOMAIN-KEYWORD, isapplesiliconready
 
 DOMAIN-SUFFIX, azure-devices.net
+DOMAIN-SUFFIX, arxiv.org
 DOMAIN-SUFFIX, ip.sb
