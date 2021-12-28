@@ -19,3 +19,5 @@ DOMAIN-SUFFIX,apple.news
 USER-AGENT,AppleNews*
 USER-AGENT,com.apple.news*
 PROCESS-NAME,news
+
+DOMAIN-SUFFIX,podcasts.apple.com
