@@ -1,7 +1,11 @@
+DOMAIN, vibe.community
+DOMAIN, fmmvibe.com
+DOMAIN, sakura.camdvr.org
+DOMAIN, renzhe.cloud
+
 DOMAIN-KEYWORD, ipify
 DOMAIN-KEYWORD, fast-fish
 DOMAIN-KEYWORD, taggood
-DOMAIN-KEYWORD, renzhe
 DOMAIN-KEYWORD, pop-os
 DOMAIN-KEYWORD, singlelogin
 DOMAIN-KEYWORD, isapplesiliconready
@@ -10,7 +14,6 @@ DOMAIN-SUFFIX, skk.moe
 DOMAIN-SUFFIX, javdb.com
 DOMAIN-SUFFIX, jdbimgs.com
 DOMAIN-SUFFIX, duyaoss.com
-DOMAIN-SUFFIX, sakura.camdvr.org
 DOMAIN-SUFFIX, arxiv.org
 DOMAIN-SUFFIX, ip.sb
 DOMAIN-SUFFIX, appcenter.ms
