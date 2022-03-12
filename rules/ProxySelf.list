@@ -2,6 +2,9 @@ DOMAIN, vibe.community
 DOMAIN, fmmvibe.com
 DOMAIN, emby.riches.cloud
 DOMAIN, isapplesiliconready.com
+DOMAIN, cdn.jsdelivr.net
+DOMAIN-SUFFIX, api.ip.sb
+DOMAIN-SUFFIX, ip.skk.moe
 
 # VPN
 DOMAIN, web.sakura.webredirect.org
