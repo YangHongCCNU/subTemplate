@@ -1,17 +1,35 @@
 DOMAIN, vibe.community
 DOMAIN, fmmvibe.com
+DOMAIN, emby.riches.cloud
+DOMAIN, isapplesiliconready.com
+
+# VPN
+DOMAIN, web.sakura.webredirect.org
+DOMAIN, poi.aoao.me
+DOMAIN-SUFFIX, tagvpn.vip
+DOMAIN-SUFFIX, taggood-6.xyz
+DOMAIN-SUFFIX, taggood-5.xyz
+DOMAIN-SUFFIX, taggood-4.xyz
+DOMAIN-SUFFIX, taggood-3.xyz
+DOMAIN-SUFFIX, taggood-2.xyz
+DOMAIN-SUFFIX, taggood-1.xyz
+DOMAIN-SUFFIX, kuaiyu.xyz
+DOMAIN-SUFFIX, fast-fish.one
+DOMAIN-SUFFIX, fast-fish.cc
+DOMAIN-SUFFIX, fast-fish.online
+DOMAIN-SUFFIX, fast-fish.shop
+DOMAIN-SUFFIX, fastfish.xyz
+DOMAIN-SUFFIX, duyaoss.com
+DOMAIN-SUFFIX, 
+DOMAIN-SUFFIX, 
+DOMAIN, 
 
 DOMAIN-KEYWORD, ipify
-DOMAIN-KEYWORD, fast-fish
-DOMAIN-KEYWORD, taggood
 DOMAIN-KEYWORD, pop-os
 DOMAIN-KEYWORD, singlelogin
-DOMAIN-KEYWORD, isapplesiliconready
 
+DOMAIN-SUFFIX, unogs.com
 DOMAIN-SUFFIX, skk.moe
 DOMAIN-SUFFIX, javdb.com
 DOMAIN-SUFFIX, jdbimgs.com
-DOMAIN-SUFFIX, duyaoss.com
-DOMAIN-SUFFIX, arxiv.org
 DOMAIN-SUFFIX, ip.sb
-DOMAIN-SUFFIX, appcenter.ms

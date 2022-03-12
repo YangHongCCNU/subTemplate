@@ -1,10 +1,18 @@
+DOMAIN, gravatar.cat.net
+DOMAIN, gravatar.loli.net
+DOMAIN, statuse.digitalcertvalidation.com
+
 DOMAIN-KEYWORD, cloudflare
 DOMAIN-KEYWORD, wakatime
-DOMAIN-KEYWORD, samsung
 
+DOMAIN-SUFFIX, crisp.chat
 DOMAIN-SUFFIX, azure-devices.net
 DOMAIN-SUFFIX, deepl.com
 DOMAIN-SUFFIX, asuscomm.com
 DOMAIN-SUFFIX, nvidia.com
 DOMAIN-SUFFIX, shields.io
 DOMAIN-SUFFIX, userstylesapi.com
+DOMAIN-SUFFIX, intel.com
+DOMAIN-SUFFIX, lencr.org
+DOMAIN-SUFFIX, ndmdhs.com
+DOMAIN-SUFFIX, shrtm.nu
