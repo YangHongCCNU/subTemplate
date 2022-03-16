@@ -5,7 +5,6 @@ DOMAIN, isapplesiliconready.com
 DOMAIN, cdn.jsdelivr.net
 DOMAIN-SUFFIX, ip.sb
 DOMAIN-SUFFIX, skk.moe
-DOMAIN-SUFFIX, ipify.org
 
 # VPN
 DOMAIN, web.sakura.webredirect.org
@@ -32,3 +31,4 @@ DOMAIN-KEYWORD, singlelogin
 DOMAIN-SUFFIX, unogs.com
 DOMAIN-SUFFIX, javdb.com
 DOMAIN-SUFFIX, jdbimgs.com
+DOMAIN-SUFFIX, keeflys.com

@@ -1,6 +1,8 @@
 DOMAIN, gravatar.cat.net
 DOMAIN, gravatar.loli.net
 DOMAIN, statuse.digitalcertvalidation.com
+DOMAIN, api.dler.io
+DOMAIN, api.tsutsu.cc
 
 DOMAIN-KEYWORD, cloudflare
 DOMAIN-KEYWORD, wakatime
@@ -16,3 +18,11 @@ DOMAIN-SUFFIX, lencr.org
 DOMAIN-SUFFIX, ndmdhs.com
 DOMAIN-SUFFIX, shrtm.nu
 DOMAIN-SUFFIX, lenovo.com
+
+DOMAIN-SUFFIX, tagcontrol.xyz
+DOMAIN-SUFFIX, herokudns.com
+DOMAIN-SUFFIX, dangbei.net
+DOMAIN-SUFFIX, logi.com
+DOMAIN-SUFFIX, ip-api.com
+DOMAIN-SUFFIX, asia.pool.ntp.org
+DOMAIN-SUFFIX, logitech.com
