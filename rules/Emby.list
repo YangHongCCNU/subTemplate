@@ -1,5 +1,2 @@
-DOMAIN, emby.riches.cloud
-DOMAIN, emby.misakaf.xyz
-DOMAIN, embyaz.misakaf.xyz
-
-DOMAIN-KEYWORD,emby
+DOMAIN-SUFFIX, riches.cloud
+DOMAIN-SUFFIX, misakaf.xyz
