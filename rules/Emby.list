@@ -1,2 +1,5 @@
 DOMAIN-SUFFIX, riches.cloud
 DOMAIN-SUFFIX, misakaf.xyz
+
+USER-AGENT,Emby*
+PROCESS-NAME,Emby
