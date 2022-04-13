@@ -3,3 +3,6 @@ DOMAIN-SUFFIX, misakaf.xyz
 
 USER-AGENT,Emby*
 PROCESS-NAME,Emby
+
+USER-AGENT,infuse*
+PROCESS-NAME,infuse
