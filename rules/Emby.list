@@ -1,5 +1,8 @@
 DOMAIN-SUFFIX, riches.cloud
 DOMAIN-SUFFIX, misakaf.xyz
+DOMAIN-SUFFIX, sfa.ddns.me
+
+DOMAIN-KEYWORD,emby
 
 USER-AGENT,Emby*
 PROCESS-NAME,Emby
