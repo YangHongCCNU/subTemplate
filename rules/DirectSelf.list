@@ -4,6 +4,7 @@ DOMAIN, statuse.digitalcertvalidation.com
 DOMAIN, api.dler.io
 DOMAIN, api.tsutsu.cc
 DOMAIN, api.erabu.sony.tv
+DOMAIN-SUFFIX, amazonaws.com
 
 DOMAIN-KEYWORD, cloudflare
 DOMAIN-KEYWORD, wakatime
