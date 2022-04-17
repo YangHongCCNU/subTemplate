@@ -4,12 +4,13 @@ DOMAIN, statuse.digitalcertvalidation.com
 DOMAIN, api.dler.io
 DOMAIN, api.tsutsu.cc
 DOMAIN, api.erabu.sony.tv
-DOMAIN-SUFFIX, amazonaws.com
+DOMAIN, ec2-15-152-30-0.ap-northeast-3.compute.amazonaws.com
 
 DOMAIN-KEYWORD, cloudflare
 DOMAIN-KEYWORD, wakatime
 
 DOMAIN-SUFFIX, crisp.chat
+DOMAIN-SUFFIX, godric160.com
 DOMAIN-SUFFIX, deepl.com
 DOMAIN-SUFFIX, asuscomm.com
 DOMAIN-SUFFIX, nvidia.com
