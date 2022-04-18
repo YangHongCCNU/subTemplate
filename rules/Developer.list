@@ -35,3 +35,7 @@ DOMAIN-SUFFIX,jetbrains.team
 DOMAIN-SUFFIX,kotlinlang.org
 
 DOMAIN-SUFFIX,mathworks.com
+
+DOMAIN-SUFFIX,keras.io
+DOMAIN-SUFFIX,pytorch.org
+DOMAIN-SUFFIX,tensorflow.org
