@@ -7,6 +7,7 @@ DOMAIN, api.erabu.sony.tv
 DOMAIN, ec2-15-152-30-0.ap-northeast-3.compute.amazonaws.com
 DOMAIN, sonyyk.v5tv.com
 DOMAIN, statusf.digitalcertvalidation.com
+DOMAIN, api.weathercn.com
 
 DOMAIN-KEYWORD, cloudflare
 DOMAIN-KEYWORD, wakatime
@@ -37,3 +38,8 @@ DOMAIN-SUFFIX, logitech.com
 DOMAIN-SUFFIX, pool.ntp.org
 DOMAIN-SUFFIX, tvfuwu.com
 DOMAIN-SUFFIX, gitv.tv
+DOMAIN-SUFFIX, toutiaovod.com
+DOMAIN-SUFFIX, adguard.com
+
+IP-CIDR,18.138.0.0/15,no-resolve
+IP-CIDR,13.228.0.0/15,no-resolve
