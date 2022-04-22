@@ -8,6 +8,7 @@ DOMAIN, ec2-15-152-30-0.ap-northeast-3.compute.amazonaws.com
 DOMAIN, sonyyk.v5tv.com
 DOMAIN, statusf.digitalcertvalidation.com
 DOMAIN, api.weathercn.com
+DOMAIN, cdnjs-jp.loli.net
 
 DOMAIN-KEYWORD, cloudflare
 DOMAIN-KEYWORD, wakatime
