@@ -114,9 +114,11 @@ USER-AGENT,com.apple.appstored*
 USER-AGENT,com.apple.news*
 USER-AGENT,com.apple.trustd*
 USER-AGENT,com.apple.tv*
+USER-AGENT,com.apple.Podcasts*
 PROCESS-NAME,com.apple.geod
 PROCESS-NAME,lookupviewservice
 PROCESS-NAME,music
 PROCESS-NAME,news
 PROCESS-NAME,storedownloadd
 PROCESS-NAME,tv
+PROCESS-NAME,Podcasts
