@@ -2,6 +2,7 @@ DOMAIN, vibe.community
 DOMAIN, fmmvibe.com
 DOMAIN, isapplesiliconready.com
 DOMAIN, cdn.jsdelivr.net
+DOMAIN-SUFFIX, userstylesapi.com
 
 # VPN
 DOMAIN, web.sakura.webredirect.org
@@ -30,6 +31,7 @@ DOMAIN-SUFFIX, renzhesubconverter.com
 
 DOMAIN-SUFFIX, unogs.com
 DOMAIN-SUFFIX, javdb.com
+DOMAIN-SUFFIX, jdbstatic.com
 DOMAIN-SUFFIX, 18comic.vip
 DOMAIN-SUFFIX, jmcomic.mobi
 DOMAIN-SUFFIX, missav.com

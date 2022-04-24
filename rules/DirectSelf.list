@@ -20,7 +20,6 @@ DOMAIN-SUFFIX, deepl.com
 DOMAIN-SUFFIX, asuscomm.com
 DOMAIN-SUFFIX, nvidia.com
 DOMAIN-SUFFIX, shields.io
-DOMAIN-SUFFIX, userstylesapi.com
 DOMAIN-SUFFIX, intel.com
 DOMAIN-SUFFIX, lencr.org
 DOMAIN-SUFFIX, ndmdhs.com
@@ -34,13 +33,16 @@ DOMAIN-SUFFIX, dellsupportcenter.com
 DOMAIN-SUFFIX, tagcontrol.xyz
 DOMAIN-SUFFIX, dangbei.net
 DOMAIN-SUFFIX, logi.com
-DOMAIN-SUFFIX, ip-api.com
 DOMAIN-SUFFIX, logitech.com
+DOMAIN-SUFFIX, logitech.io
+DOMAIN-SUFFIX, ip-api.com
 DOMAIN-SUFFIX, pool.ntp.org
 DOMAIN-SUFFIX, tvfuwu.com
 DOMAIN-SUFFIX, gitv.tv
 DOMAIN-SUFFIX, toutiaovod.com
 DOMAIN-SUFFIX, adguard.com
+DOMAIN-SUFFIX, discourse.group
+DOMAIN-SUFFIX, steelseries.com
 
 IP-CIDR,18.138.0.0/15,no-resolve
 IP-CIDR,13.228.0.0/15,no-resolve
