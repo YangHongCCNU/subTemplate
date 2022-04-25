@@ -6,7 +6,8 @@ DOMAIN-SUFFIX, userstylesapi.com
 
 # VPN
 DOMAIN, web.sakura.webredirect.org
-DOMAIN, poi.aoao.me
+DOMAIN-SUFFIX, aoao.me
+DOMAIN-SUFFIX, aoaomoe.me
 DOMAIN-SUFFIX, tagvpn.vip
 DOMAIN-SUFFIX, taggood-6.xyz
 DOMAIN-SUFFIX, taggood-5.xyz
@@ -57,3 +58,4 @@ DOMAIN-SUFFIX, vps.hosting
 DOMAIN-SUFFIX, affyun.com
 DOMAIN-SUFFIX, racknerd.com
 DOMAIN-SUFFIX, hostloc.com
+DOMAIN, subweb.s3.fr-par.scw.cloud
