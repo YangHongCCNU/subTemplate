@@ -436,3 +436,6 @@ DOMAIN-KEYWORD,xboxone
 DOMAIN-KEYWORD,xboxplayanywhere
 DOMAIN-KEYWORD,xboxservices
 DOMAIN-KEYWORD,xboxstudios
+
+#> Added
+DOMAIN-SUFFIX,l-msedge.net

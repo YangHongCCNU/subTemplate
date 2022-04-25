@@ -43,6 +43,8 @@ DOMAIN-SUFFIX, toutiaovod.com
 DOMAIN-SUFFIX, adguard.com
 DOMAIN-SUFFIX, discourse.group
 DOMAIN-SUFFIX, steelseries.com
+DOMAIN-SUFFIX, macwk.com
 
-IP-CIDR,18.138.0.0/15,no-resolve
-IP-CIDR,13.228.0.0/15,no-resolve
+SRC-IP-CIDR,3.1.233.213/32,no-resolve
+# IP-CIDR,18.138.0.0/15,no-resolve
+# IP-CIDR,13.228.0.0/15,no-resolve
