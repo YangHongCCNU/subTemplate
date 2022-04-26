@@ -3,6 +3,8 @@ DOMAIN, fmmvibe.com
 DOMAIN, isapplesiliconready.com
 DOMAIN, cdn.jsdelivr.net
 DOMAIN-SUFFIX, userstylesapi.com
+DOMAIN-SUFFIX, gitbook.io
+DOMAIN-SUFFIX, gitbook.com
 
 # VPN
 DOMAIN, web.sakura.webredirect.org
