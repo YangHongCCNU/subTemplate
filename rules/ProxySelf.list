@@ -10,21 +10,13 @@ DOMAIN-SUFFIX, gitbook.com
 DOMAIN, web.sakura.webredirect.org
 DOMAIN-SUFFIX, aoao.me
 DOMAIN-SUFFIX, aoaomoe.me
-DOMAIN-SUFFIX, tagvpn.vip
-DOMAIN-SUFFIX, taggood-6.xyz
-DOMAIN-SUFFIX, taggood-5.xyz
-DOMAIN-SUFFIX, taggood-4.xyz
-DOMAIN-SUFFIX, taggood-3.xyz
-DOMAIN-SUFFIX, taggood-2.xyz
-DOMAIN-SUFFIX, taggood-1.xyz
-DOMAIN-SUFFIX, kuaiyu.xyz
-DOMAIN-SUFFIX, fast-fish.one
-DOMAIN-SUFFIX, fast-fish.cc
-DOMAIN-SUFFIX, fast-fish.online
-DOMAIN-SUFFIX, fast-fish.shop
-DOMAIN-SUFFIX, fast-fish.club
-DOMAIN-SUFFIX, fast-fish.me
-DOMAIN-SUFFIX, fastfish.xyz
+
+DOMAIN-KEYWORD, tagvpn
+DOMAIN-KEYWORD, taggood
+DOMAIN-KEYWORD, kuaiyu
+DOMAIN-KEYWORD, fast-fish
+DOMAIN-KEYWORD, fastfish
+
 DOMAIN-SUFFIX, duyaoss.com
 DOMAIN-SUFFIX, creampanel.com
 DOMAIN-SUFFIX, creamdata.net
@@ -60,4 +52,3 @@ DOMAIN-SUFFIX, vps.hosting
 DOMAIN-SUFFIX, affyun.com
 DOMAIN-SUFFIX, racknerd.com
 DOMAIN-SUFFIX, hostloc.com
-DOMAIN, subweb.s3.fr-par.scw.cloud
