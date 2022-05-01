@@ -1,42 +1,39 @@
-DOMAIN, api.dler.io
-DOMAIN, api.tsutsu.cc
-DOMAIN, ec2-15-152-30-0.ap-northeast-3.compute.amazonaws.com
-DOMAIN, sonyyk.v5tv.com
 DOMAIN, statusf.digitalcertvalidation.com
 DOMAIN, api.weathercn.com
 
-DOMAIN-KEYWORD, cloudflare
+DOMAIN, sonyyk.v5tv.com
+
 DOMAIN-KEYWORD, wakatime
 
 DOMAIN-SUFFIX, sony.tv
+
 DOMAIN-SUFFIX, godric160.com
-DOMAIN-SUFFIX, crisp.chat
-DOMAIN-SUFFIX, deepl.com
+
 DOMAIN-SUFFIX, asuscomm.com
+DOMAIN-SUFFIX, deepl.com
+DOMAIN-SUFFIX, ndmdhs.com
+DOMAIN-SUFFIX, shrtm.nu
+DOMAIN-SUFFIX, ntp.org
+DOMAIN-SUFFIX, mywot.com
+
 DOMAIN-SUFFIX, nvidia.com
 DOMAIN-SUFFIX, shields.io
 DOMAIN-SUFFIX, intel.com
 DOMAIN-SUFFIX, lencr.org
-DOMAIN-SUFFIX, ndmdhs.com
-DOMAIN-SUFFIX, shrtm.nu
 DOMAIN-SUFFIX, lenovo.com
-
 DOMAIN-SUFFIX, dell.com
-DOMAIN-SUFFIX, mywot.com
-DOMAIN-SUFFIX, sbixby.com
 DOMAIN-SUFFIX, dellsupportcenter.com
-DOMAIN-SUFFIX, tagcontrol.xyz
 DOMAIN-SUFFIX, dangbei.net
+
 DOMAIN-SUFFIX, logi.com
 DOMAIN-SUFFIX, logitech.com
 DOMAIN-SUFFIX, logitech.io
-DOMAIN-SUFFIX, pool.ntp.org
+DOMAIN-SUFFIX, steelseries.com
 DOMAIN-SUFFIX, tvfuwu.com
 DOMAIN-SUFFIX, gitv.tv
 DOMAIN-SUFFIX, toutiaovod.com
 DOMAIN-SUFFIX, adguard.com
 DOMAIN-SUFFIX, discourse.group
-DOMAIN-SUFFIX, steelseries.com
 DOMAIN-SUFFIX, macwk.com
 
 # IP-CIDR,3.1.233.213/32,no-resolve
