@@ -5,3 +5,5 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,keras.io
 DOMAIN-SUFFIX,pytorch.org
 DOMAIN-SUFFIX,tensorflow.org
+
+DOMAIN-SUFFIX,openai.com
