@@ -8,10 +8,6 @@ DOMAIN-SUFFIX, gitbook.com
 DOMAIN-SUFFIX, emojipedia.org
 
 # VPN
-DOMAIN, web.sakura.webredirect.org
-DOMAIN-SUFFIX, aoao.me
-DOMAIN-SUFFIX, aoaomoe.me
-
 DOMAIN-KEYWORD, tagvpn
 DOMAIN-KEYWORD, taggood
 DOMAIN-KEYWORD, kuaiyu
@@ -24,6 +20,9 @@ DOMAIN-SUFFIX, creamdata.net
 DOMAIN-SUFFIX, renzhe.cloud
 DOMAIN-SUFFIX, renzhesub.com
 DOMAIN-SUFFIX, renzhesubconverter.com
+
+DOMAIN-SUFFIX, huacloud.icu
+DOMAIN-SUFFIX, flower.yt
 
 DOMAIN-SUFFIX, unogs.com
 DOMAIN-SUFFIX, javdb.com

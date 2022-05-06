@@ -4,8 +4,13 @@ DOMAIN, api.weathercn.com
 DOMAIN, sonyyk.v5tv.com
 
 DOMAIN-KEYWORD, wakatime
+DOMAIN-KEYWORD, grammarly
 
 DOMAIN-SUFFIX, sony.tv
+
+DOMAIN, client.relay.crisp.chat
+DOMAIN-SUFFIX, cloudflare.com
+DOMAIN-SUFFIX, sectigo.com
 
 DOMAIN-SUFFIX, godric160.com
 
