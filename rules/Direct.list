@@ -8,7 +8,7 @@ DOMAIN-KEYWORD, grammarly
 
 DOMAIN-SUFFIX, sony.tv
 
-DOMAIN, client.relay.crisp.chat
+DOMAIN-SUFFIX, crisp.chat
 DOMAIN-SUFFIX, cloudflare.com
 DOMAIN-SUFFIX, sectigo.com
 
