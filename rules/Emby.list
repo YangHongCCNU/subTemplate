@@ -4,6 +4,9 @@ DOMAIN-SUFFIX, gcx920110.com
 
 DOMAIN-SUFFIX, ddns.me
 DOMAIN-SUFFIX, ddns.net
+
+DOMAIN, www.hellohd.net
+
 IP-CIDR,172.104.74.119/32,no-resolve
 
 DOMAIN-KEYWORD,emby
@@ -13,3 +16,6 @@ PROCESS-NAME,Emby
 
 USER-AGENT,infuse*
 PROCESS-NAME,infuse
+
+USER-AGENT,Filebox*
+PROCESS-NAME,Filebox
