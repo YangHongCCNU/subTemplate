@@ -8,6 +8,9 @@ DOMAIN-KEYWORD, grammarly
 
 DOMAIN-SUFFIX, sony.tv
 
+DOMAIN-SUFFIX, mathjax.org
+DOMAIN-SUFFIX, polyfill.iox
+
 DOMAIN-SUFFIX, crisp.chat
 DOMAIN-SUFFIX, cloudflare.com
 DOMAIN-SUFFIX, sectigo.com
