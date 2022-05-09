@@ -6,6 +6,7 @@ DOMAIN-SUFFIX, ddns.me
 DOMAIN-SUFFIX, ddns.net
 
 DOMAIN, www.hellohd.net
+IP-CIDR,144.126.145.84/32,no-resolve
 
 IP-CIDR,172.104.74.119/32,no-resolve
 
