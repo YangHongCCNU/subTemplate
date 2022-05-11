@@ -1,0 +1,7 @@
+IP-CIDR,8.8.4.0/24,no-resolve
+IP-CIDR,8.8.8.0/24,no-resolve
+IP-CIDR,8.34.208.0/21,no-resolve
+IP-CIDR,142.250.0.0/15,no-resolve
+IP-CIDR, ,no-resolve
+IP-CIDR, ,no-resolve
+IP-CIDR, ,no-resolve
