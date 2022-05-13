@@ -6,6 +6,7 @@ DOMAIN-SUFFIX, userstylesapi.com
 DOMAIN-SUFFIX, gitbook.io
 DOMAIN-SUFFIX, gitbook.com
 DOMAIN-SUFFIX, emojipedia.org
+DOMAIN-SUFFIX, hcaptcha.com
 
 # VPN
 DOMAIN-KEYWORD, tagvpn
@@ -13,7 +14,6 @@ DOMAIN-KEYWORD, taggood
 DOMAIN-KEYWORD, kuaiyu
 DOMAIN-KEYWORD, fast-fish
 DOMAIN-KEYWORD, fastfish
-
 DOMAIN, immtel.com
 DOMAIN, fuckimm.com
 DOMAIN-SUFFIX, duyaoss.com

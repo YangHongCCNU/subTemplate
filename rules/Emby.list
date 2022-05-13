@@ -18,8 +18,8 @@ PROCESS-NAME,infuse
 USER-AGENT,Filebox*
 PROCESS-NAME,Filebox
 
-DOMAIN-SUFFIX,emby.riches.cloud
 DOMAIN,emby.immtel.com
+DOMAIN-SUFFIX,emby.riches.cloud
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,plusmedia.site
 DOMAIN-SUFFIX,mickeycloud.com
