@@ -14,6 +14,9 @@ DOMAIN-KEYWORD,xboxstudios
 #> Added
 DOMAIN-SUFFIX,l-msedge.net
 DOMAIN-SUFFIX,azure-devices.net
+DOMAIN-SUFFIX,azurefd.net
 
 #> VsCode
 DOMAIN,default.exp-tas.com
+
+IP-CIDR,204.79.197.0/24,no-resolve

@@ -7,6 +7,10 @@ DOMAIN-KEYWORD, wakatime
 DOMAIN-KEYWORD, grammarly
 
 DOMAIN-SUFFIX, sony.tv
+DOMAIN-SUFFIX, openstreetmap.org
+DOMAIN-SUFFIX, bootcdn.net
+DOMAIN-SUFFIX, licdn.com
+DOMAIN-SUFFIX, icons8.com
 
 DOMAIN-SUFFIX, mathjax.org
 DOMAIN-SUFFIX, polyfill.iox
