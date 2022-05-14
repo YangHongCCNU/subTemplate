@@ -18,6 +18,7 @@ DOMAIN, immtel.com
 DOMAIN, fuckimm.com
 DOMAIN-SUFFIX, duyaoss.com
 DOMAIN-SUFFIX, tenglong.co
+DOMAIN-SUFFIX, prprcloud.moe
 DOMAIN-SUFFIX, creampanel.com
 DOMAIN-SUFFIX, creamdata.net
 DOMAIN-SUFFIX, renzhe.cloud
@@ -55,3 +56,9 @@ DOMAIN-SUFFIX, vps.hosting
 DOMAIN-SUFFIX, affyun.com
 DOMAIN-SUFFIX, racknerd.com
 DOMAIN-SUFFIX, hostloc.com
+
+#> Gcash EEPay
+DOMAIN-SUFFIX, gcash.com
+DOMAIN-SUFFIX, mynt.xyz
+DOMAIN-SUFFIX, eepay.ph
+DOMAIN-SUFFIX, appsflyer.com

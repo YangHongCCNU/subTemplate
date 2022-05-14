@@ -1,4 +1,3 @@
-DOMAIN, statusf.digitalcertvalidation.com
 DOMAIN, api.weathercn.com
 
 DOMAIN, sonyyk.v5tv.com
@@ -6,6 +5,7 @@ DOMAIN, sonyyk.v5tv.com
 DOMAIN-KEYWORD, wakatime
 DOMAIN-KEYWORD, grammarly
 
+DOMAIN-SUFFIX, digitalcertvalidation.com
 DOMAIN-SUFFIX, sony.tv
 DOMAIN-SUFFIX, openstreetmap.org
 DOMAIN-SUFFIX, bootcdn.net
@@ -48,3 +48,9 @@ DOMAIN-SUFFIX, macwk.com
 # IP-CIDR,13.228.14.173/32,no-resolve
 # IP-CIDR,18.138.0.0/15,no-resolve
 # IP-CIDR,13.228.0.0/15,no-resolve
+
+#> cloudflare
+IP-CIDR,104.18.16.0/20,no-resolve
+
+#> Samsung bixby
+DOMAIN-SUFFIX, sbixby.com
