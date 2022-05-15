@@ -16,7 +16,6 @@ DOMAIN-SUFFIX, mathjax.org
 DOMAIN-SUFFIX, polyfill.iox
 
 DOMAIN-SUFFIX, crisp.chat
-DOMAIN-SUFFIX, cloudflare.com
 DOMAIN-SUFFIX, sectigo.com
 
 DOMAIN-SUFFIX, asuscomm.com
@@ -48,9 +47,6 @@ DOMAIN-SUFFIX, macwk.com
 # IP-CIDR,13.228.14.173/32,no-resolve
 # IP-CIDR,18.138.0.0/15,no-resolve
 # IP-CIDR,13.228.0.0/15,no-resolve
-
-#> cloudflare
-IP-CIDR,104.18.16.0/20,no-resolve
 
 #> Samsung bixby
 DOMAIN-SUFFIX, sbixby.com
