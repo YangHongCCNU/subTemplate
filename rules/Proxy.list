@@ -8,6 +8,16 @@ DOMAIN-SUFFIX, gitbook.com
 DOMAIN-SUFFIX, emojipedia.org
 DOMAIN-SUFFIX, hcaptcha.com
 
+DOMAIN, developer.akamai.com
+DOMAIN-SUFFIX, fonts.net
+DOMAIN-SUFFIX, techlab-cdn.com
+DOMAIN-SUFFIX, akamai.secure.force.com
+DOMAIN-SUFFIX, cdn.cookielaw.org
+DOMAIN-SUFFIX, swiftype.com
+DOMAIN-SUFFIX, akstat.io
+DOMAIN-SUFFIX, force.com
+DOMAIN-SUFFIX, e37498.dsca.akamaiedge.net
+
 # VPN
 DOMAIN-KEYWORD, tagvpn
 DOMAIN-KEYWORD, taggood
@@ -24,7 +34,6 @@ DOMAIN-SUFFIX, creamdata.net
 DOMAIN-SUFFIX, renzhe.cloud
 DOMAIN-SUFFIX, renzhesub.com
 DOMAIN-SUFFIX, renzhesubconverter.com
-
 DOMAIN-SUFFIX, huacloud.icu
 DOMAIN-SUFFIX, flower.yt
 
@@ -37,6 +46,10 @@ DOMAIN-SUFFIX, missav.com
 DOMAIN-SUFFIX, tapecontent.net
 DOMAIN-SUFFIX, jdbimgs.com
 DOMAIN-SUFFIX, keeflys.com
+DOMAIN, arxiv-org.atlassian.net
+DOMAIN, code.jquery.com
+DOMAIN, mc.yandex.ru
+DOMAIN, metal.prod.atl-paas.net
 
 DOMAIN-SUFFIX, ip.sb
 DOMAIN-SUFFIX, skk.moe
