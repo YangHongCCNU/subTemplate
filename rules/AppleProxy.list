@@ -1,4 +1,5 @@
 #> AppleTV
 
-DOMAIN,mediaservices.cdn-apple.com
-DOMAIN,cma2.itunes.apple.com
+DOMAIN, mediaservices.cdn-apple.com
+DOMAIN, cma2.itunes.apple.com
+DOMAIN-SUFFIX, dscw11.akamai.net
