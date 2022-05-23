@@ -18,25 +18,13 @@ PROCESS-NAME,infuse
 USER-AGENT,Filebox*
 PROCESS-NAME,Filebox
 
-DOMAIN,emby.immtel.com
 DOMAIN-SUFFIX,emby.riches.cloud
 DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,plusmedia.site
 DOMAIN-SUFFIX,mickeycloud.com
 DOMAIN-SUFFIX,emby.mcwy.me
 DOMAIN-SUFFIX,emby.neko.edu.rs
 DOMAIN-SUFFIX,emby.ok.edu.hk
-DOMAIN-SUFFIX,emby.maying.club
-DOMAIN-SUFFIX,emby.nexitally.com
 DOMAIN-SUFFIX,pub1.emby.wtf
-DOMAIN-SUFFIX,pub1.emby.wtf
-DOMAIN-SUFFIX,pub1back1.emby.wtf
-DOMAIN-SUFFIX,pub1back2.emby.wtf
-DOMAIN-SUFFIX,pub1back3.emby.wtf
-DOMAIN-SUFFIX,pub1back5.emby.wtf
-DOMAIN-SUFFIX,pub1back4.emby.wtf
-DOMAIN-SUFFIX,pub1back6.emby.wtf
-DOMAIN-SUFFIX,pub1back7.emby.wtf
 DOMAIN-SUFFIX,pub1back1.emby.wtf
 DOMAIN-SUFFIX,pub1back2.emby.wtf
 DOMAIN-SUFFIX,pub1back3.emby.wtf
@@ -44,13 +32,11 @@ DOMAIN-SUFFIX,pub1back4.emby.wtf
 DOMAIN-SUFFIX,pub1back5.emby.wtf
 DOMAIN-SUFFIX,pub1back6.emby.wtf
 DOMAIN-SUFFIX,pub1back7.emby.wtf
-DOMAIN-SUFFIX,pub1jp.emby.wtf
 DOMAIN-SUFFIX,pub1jp.emby.wtf
 DOMAIN-SUFFIX,pub1ntt.emby.wtf
 DOMAIN-SUFFIX,pub1sgp.emby.wtf
 DOMAIN-SUFFIX,pub1cf.emby.wtf
 DOMAIN-SUFFIX,pub2.emby.wtf
-DOMAIN-SUFFIX,pub2.emby.wtf
 DOMAIN-SUFFIX,pub2back1.emby.wtf
 DOMAIN-SUFFIX,pub2back2.emby.wtf
 DOMAIN-SUFFIX,pub2back3.emby.wtf
@@ -58,20 +44,11 @@ DOMAIN-SUFFIX,pub2back4.emby.wtf
 DOMAIN-SUFFIX,pub2back5.emby.wtf
 DOMAIN-SUFFIX,pub2back6.emby.wtf
 DOMAIN-SUFFIX,pub2back7.emby.wtf
-DOMAIN-SUFFIX,pub2back1.emby.wtf
-DOMAIN-SUFFIX,pub2back2.emby.wtf
-DOMAIN-SUFFIX,pub2back3.emby.wtf
-DOMAIN-SUFFIX,pub2back4.emby.wtf
-DOMAIN-SUFFIX,pub2back5.emby.wtf
-DOMAIN-SUFFIX,pub2back6.emby.wtf
-DOMAIN-SUFFIX,pub2back7.emby.wtf
-DOMAIN-SUFFIX,pub2jp.emby.wtf
 DOMAIN-SUFFIX,pub2jp.emby.wtf
 DOMAIN-SUFFIX,pub2ntt.emby.wtf
 DOMAIN-SUFFIX,pub2sgp.emby.wtf
 DOMAIN-SUFFIX,pub2cf.emby.wtf
 DOMAIN-SUFFIX,pub3.emby.wtf
-DOMAIN-SUFFIX,pub3.emby.wtf
 DOMAIN-SUFFIX,pub3back1.emby.wtf
 DOMAIN-SUFFIX,pub3back2.emby.wtf
 DOMAIN-SUFFIX,pub3back3.emby.wtf
@@ -79,26 +56,72 @@ DOMAIN-SUFFIX,pub3back4.emby.wtf
 DOMAIN-SUFFIX,pub3back5.emby.wtf
 DOMAIN-SUFFIX,pub3back6.emby.wtf
 DOMAIN-SUFFIX,pub3back7.emby.wtf
-DOMAIN-SUFFIX,pub3back1.emby.wtf
-DOMAIN-SUFFIX,pub3back2.emby.wtf
-DOMAIN-SUFFIX,pub3back3.emby.wtf
-DOMAIN-SUFFIX,pub3back4.emby.wtf
-DOMAIN-SUFFIX,pub3back5.emby.wtf
-DOMAIN-SUFFIX,pub3back6.emby.wtf
-DOMAIN-SUFFIX,pub3back7.emby.wtf
-DOMAIN-SUFFIX,pub3jp.emby.wtf
 DOMAIN-SUFFIX,pub3jp.emby.wtf
 DOMAIN-SUFFIX,pub3ntt.emby.wtf
 DOMAIN-SUFFIX,pub3sgp.emby.wtf
 DOMAIN-SUFFIX,pub3cf.emby.wtf
-DOMAIN-SUFFIX,servers.xeton.dev
-DOMAIN-SUFFIX,emby.plusmedia.site
-DOMAIN-SUFFIX,emby-cf.plusmedia.site
-DOMAIN-SUFFIX,movie.xeton.dev
-DOMAIN-SUFFIX,jellyfin.xeton.dev
-DOMAIN-SUFFIX,emby.xeton.dev
-DOMAIN-SUFFIX,emby.cjpc.cc
+DOMAIN-SUFFIX,emby.hm773.xyz
+DOMAIN-SUFFIX,emby.cjpc.xyz
+DOMAIN-SUFFIX,emby.paoche.ooo
+DOMAIN-SUFFIX,play.charontv.com
+DOMAIN-SUFFIX,em.ssky.me
+DOMAIN-SUFFIX,embyclub.nl
 DOMAIN-SUFFIX,cristiamo.xyz
 IP-CIDR,161.97.148.156/24,no-resolve
 IP-CIDR,198.204.247.154/24,no-resolve
-DOMAIN-SUFFIX,hz.cristiamo.xyz
+IP-CIDR,103.97.200.124/32
+IP-CIDR,178.173.230.58/32
+IP-CIDR,211.20.56.42/32
+DOMAIN-SUFFIX,plusmedia.site
+
+# > 流媒体emby-nexitally服务器
+DOMAIN-SUFFIX,emby.nexitally.com
+# > 流媒体emby-paoche服务器
+DOMAIN-SUFFIX,emby.cjpc.cc
+# > 流媒体emby-flowercloud服务器
+DOMAIN-SUFFIX,emby.flowercloud.yt
+# > 流媒体emby-maying服务器
+DOMAIN-SUFFIX,emby.maying.club
+# > 流媒体emby-mdss服务器
+DOMAIN-SUFFIX,emby.mdss.cloud
+# > 流媒体emby-ytoo服务器
+DOMAIN-SUFFIX,emby.ytoo.li
+# > 流媒体emby-w8ves服务器
+DOMAIN-SUFFIX,embyserver.ga
+# > 流媒体emby-prpr服务器
+DOMAIN-SUFFIX,emby.prprcloud.com
+# > 流媒体emby-nyancat服务器
+DOMAIN-SUFFIX,emby.nyancat.net
+# > 流媒体emby-Plus体验服
+DOMAIN-SUFFIX,emby.xeton.dev
+DOMAIN-SUFFIX,jellyfin.xeton.dev
+DOMAIN-SUFFIX,movie.xeton.dev
+DOMAIN-SUFFIX,servers.xeton.dev
+# > 流媒体emby-Otaku体验服
+DOMAIN-SUFFIX,emby.otakudrive.life
+DOMAIN-SUFFIX,emby2.otakudrive.life
+# > 流媒体pornemby服务器
+DOMAIN-SUFFIX,pornemby.club
+# > 流媒体IMM服务器
+DOMAIN-SUFFIX,emby.immtel.com
+# > 流媒体Odyssey服务器
+DOMAIN,cf.odysseyplus.site
+DOMAIN,agahk.odysseyplus.site
+DOMAIN,agasg.odysseyplus.site
+DOMAIN,ru.odysseyplus.site
+# > 流媒体Exflux服务器
+DOMAIN-SUFFIX,line.emby.men
+# > 流媒体SoCloud服务器
+DOMAIN-SUFFIX,emby.run
+# > 流媒体卷毛鼠服务器
+DOMAIN,jmsooo.com
+DOMAIN,cf.jmsooo.com
+DOMAIN,hk.jmsooo.com
+DOMAIN,sg.jmsooo.com
+DOMAIN,agahk1.jmsooo.com
+DOMAIN,agasg1.jmsooo.com
+DOMAIN,agajp1.jmsooo.com
+DOMAIN,aws.jmsooo.com
+DOMAIN,ntt1.jmsooo.com
+DOMAIN,hinet.jmsooo.com
+DOMAIN,cf1.jmsooo.com
