@@ -21,3 +21,4 @@ DOMAIN,default.exp-tas.com
 
 IP-CIDR,204.79.197.0/24,no-resolve
 IP-CIDR,52.96.0.0/12,no-resolve
+IP-CIDR,13.104.0.0/14,no-resolve

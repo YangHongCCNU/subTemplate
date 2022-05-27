@@ -8,6 +8,9 @@ DOMAIN-SUFFIX, gitbook.com
 DOMAIN-SUFFIX, emojipedia.org
 DOMAIN-SUFFIX, hcaptcha.com
 
+DOMAIN-SUFFIX, deepl.com
+DOMAIN-SUFFIX, collinsdictionary.com
+
 DOMAIN, developer.akamai.com
 DOMAIN-SUFFIX, fonts.net
 DOMAIN-SUFFIX, techlab-cdn.com
