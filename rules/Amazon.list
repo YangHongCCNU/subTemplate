@@ -212,5 +212,16 @@ USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
 URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
 PROCESS-NAME,com.amazon.avod.thirdpartyclient
-
 DOMAIN-SUFFIX,amazonalexa.com
+DOMAIN,atv-ps.amazon.com
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net
+DOMAIN,d22qjgkvxw22r6.cloudfront.net
+DOMAIN,d25xi40x97liuc.cloudfront.net
+DOMAIN,d27xxe7juh1us6.cloudfront.net
+DOMAIN,dmqdd6hw24ucf.cloudfront.net
+DOMAIN,fls-na.amazon.com
+DOMAIN,www.amazon.com
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,pv-cdn.net
+USER-AGENT,Prime%20Video*
