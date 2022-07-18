@@ -1,3 +1,4 @@
 DOMAIN,a902.dscw80.akamai.net
 DOMAIN,d28je938im599m.cloudfront.net
 DOMAIN,dualstack.dss-apac.map.fastly.net
+IP-CIDR,18.65.0.0/21,no-resolve
