@@ -1,13 +1,5 @@
-DOMAIN-SUFFIX, misakaf.xyz
-DOMAIN-SUFFIX, gcx920110.com
-DOMAIN-SUFFIX, hellohd.net
-
-DOMAIN, lnj.ddns.net
-
-IP-CIDR,144.126.145.84/32,no-resolve
-IP-CIDR,172.104.74.119/32,no-resolve
-
-DOMAIN-KEYWORD,emby
+DOMAIN-SUFFIX, misakaf.org
+DOMAIN-SUFFIX, tagemby.com
 
 USER-AGENT,Emby*
 PROCESS-NAME,Emby
@@ -18,7 +10,6 @@ PROCESS-NAME,infuse
 USER-AGENT,Filebox*
 PROCESS-NAME,Filebox
 
-DOMAIN-SUFFIX,emby.riches.cloud
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,mickeycloud.com
 DOMAIN-SUFFIX,emby.mcwy.me
