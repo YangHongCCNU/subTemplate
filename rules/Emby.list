@@ -70,5 +70,6 @@ DOMAIN-SUFFIX,line.emby.men
 DOMAIN-SUFFIX,emby.run
 # > 流媒体卷毛鼠服务器
 DOMAIN-SUFFIX,jmsooo.com
+DOMAIN,jmspublic.trafficmanager.net
 IP-CIDR,64.32.25.0/24,no-resolve
 DOMAIN,tagemby.embylianmeng.com
