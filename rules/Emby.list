@@ -1,5 +1,10 @@
 DOMAIN-SUFFIX, misakaf.org
-DOMAIN-SUFFIX, tagemby.com
+DOMAIN-SUFFIX, jmsooo.com
+DOMAIN-SUFFIX, tagemby.embylianmeng.com
+DOMAIN-SUFFIX, pornemby.club
+DOMAIN-SUFFIX, direct.nebula-emby.com
+DOMAIN-SUFFIX, emby.wtf
+DOMAIN-SUFFIX, hellohd.net
 
 USER-AGENT,Emby*
 PROCESS-NAME,Emby
@@ -9,67 +14,3 @@ PROCESS-NAME,infuse
 
 USER-AGENT,Filebox*
 PROCESS-NAME,Filebox
-
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,mickeycloud.com
-DOMAIN-SUFFIX,emby.mcwy.me
-DOMAIN-SUFFIX,emby.neko.edu.rs
-DOMAIN-SUFFIX,emby.ok.edu.hk
-DOMAIN-SUFFIX,emby.hm773.xyz
-DOMAIN-SUFFIX,emby.cjpc.xyz
-DOMAIN-SUFFIX,emby.paoche.ooo
-DOMAIN-SUFFIX,play.charontv.com
-DOMAIN-SUFFIX,em.ssky.me
-DOMAIN-SUFFIX,embyclub.nl
-DOMAIN-SUFFIX,cristiamo.xyz
-IP-CIDR,161.97.148.156/24,no-resolve
-IP-CIDR,198.204.247.154/24,no-resolve
-IP-CIDR,103.97.200.124/32,no-resolve
-IP-CIDR,178.173.230.58/32,no-resolve
-IP-CIDR,211.20.56.42/32,no-resolve
-DOMAIN-SUFFIX,plusmedia.site
-
-# > 流媒体emby-nexitally服务器
-DOMAIN-SUFFIX,emby.nexitally.com
-# > 流媒体emby-paoche服务器
-DOMAIN-SUFFIX,emby.cjpc.cc
-# > 流媒体emby-flowercloud服务器
-DOMAIN-SUFFIX,emby.flowercloud.yt
-# > 流媒体emby-maying服务器
-DOMAIN-SUFFIX,emby.maying.club
-# > 流媒体emby-mdss服务器
-DOMAIN-SUFFIX,emby.mdss.cloud
-# > 流媒体emby-ytoo服务器
-DOMAIN-SUFFIX,emby.ytoo.li
-# > 流媒体emby-w8ves服务器
-DOMAIN-SUFFIX,embyserver.ga
-# > 流媒体emby-prpr服务器
-DOMAIN-SUFFIX,emby.prprcloud.com
-# > 流媒体emby-nyancat服务器
-DOMAIN-SUFFIX,emby.nyancat.net
-# > 流媒体emby-Plus体验服
-DOMAIN-SUFFIX,emby.xeton.dev
-DOMAIN-SUFFIX,jellyfin.xeton.dev
-DOMAIN-SUFFIX,movie.xeton.dev
-DOMAIN-SUFFIX,servers.xeton.dev
-# > 流媒体emby-Otaku体验服
-DOMAIN-SUFFIX,emby.otakudrive.life
-DOMAIN-SUFFIX,emby2.otakudrive.life
-# > 流媒体pornemby服务器
-DOMAIN-SUFFIX,pornemby.club
-# > 流媒体IMM服务器
-DOMAIN-SUFFIX,emby.immtel.com
-# > 流媒体Odyssey服务器
-DOMAIN,cf.odysseyplus.site
-DOMAIN,agahk.odysseyplus.site
-DOMAIN,agasg.odysseyplus.site
-DOMAIN,ru.odysseyplus.site
-# > 流媒体Exflux服务器
-DOMAIN-SUFFIX,line.emby.men
-# > 流媒体SoCloud服务器
-DOMAIN-SUFFIX,emby.run
-# > 流媒体卷毛鼠服务器
-DOMAIN-SUFFIX,jmsooo.com
-DOMAIN,jmspublic.trafficmanager.net
-IP-CIDR,64.32.25.0/24,no-resolve
-DOMAIN,tagemby.embylianmeng.com
