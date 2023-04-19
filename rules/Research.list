@@ -1,12 +1,8 @@
 DOMAIN-KEYWORD, sci-hub
-
 DOMAIN-SUFFIX, paperswithcode.com
 DOMAIN-SUFFIX, semanticscholar.org
 DOMAIN-SUFFIX, mathworks.com
-
-DOMAIN-SUFFIX, openai.com
 DOMAIN-SUFFIX, keras.io
 DOMAIN-SUFFIX, pytorch.org
 DOMAIN-SUFFIX, tensorflow.org
-
-DOMAIN-SUFFIX, mne.tools
+DOMAIN-SUFFIX, arxiv.org
