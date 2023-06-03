@@ -1,8 +1,12 @@
-DOMAIN-KEYWORD, sci-hub
-DOMAIN-SUFFIX, paperswithcode.com
+DOMAIN-SUFFIX, orcid.org
+DOMAIN-SUFFIX, manuscriptcentral.com
+DOMAIN-SUFFIX, overleaf.com
+DOMAIN-SUFFIX, dblp.org
 DOMAIN-SUFFIX, semanticscholar.org
+DOMAIN-SUFFIX, paperswithcode.com
+DOMAIN-SUFFIX, arxiv.org
 DOMAIN-SUFFIX, mathworks.com
 DOMAIN-SUFFIX, keras.io
 DOMAIN-SUFFIX, pytorch.org
 DOMAIN-SUFFIX, tensorflow.org
-DOMAIN-SUFFIX, arxiv.org
+DOMAIN-KEYWORD, sci-hub

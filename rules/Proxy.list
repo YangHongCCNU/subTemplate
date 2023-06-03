@@ -2,6 +2,8 @@ DOMAIN, vibe.community
 DOMAIN, fmmvibe.com
 DOMAIN, isapplesiliconready.com
 DOMAIN, cdn.jsdelivr.net
+DOMAIN-SUFFIX, software.com
+DOMAIN-SUFFIX, codetime.dev
 DOMAIN-SUFFIX, userstylesapi.com
 DOMAIN-SUFFIX, gitbook.io
 DOMAIN-SUFFIX, gitbook.com
@@ -22,11 +24,6 @@ DOMAIN-SUFFIX, force.com
 DOMAIN-SUFFIX, e37498.dsca.akamaiedge.net
 
 # VPN
-DOMAIN-KEYWORD, tagvpn
-DOMAIN-KEYWORD, taggood
-DOMAIN-KEYWORD, kuaiyu
-DOMAIN-KEYWORD, fast-fish
-DOMAIN-KEYWORD, fastfish
 DOMAIN, immtel.com
 DOMAIN, fuckimm.com
 DOMAIN-SUFFIX, duyaoss.com
@@ -62,12 +59,10 @@ DOMAIN-SUFFIX, ip-api.com
 DOMAIN-SUFFIX, herokudns.com
 DOMAIN-SUFFIX, ipify.org
 
-DOMAIN-SUFFIX, scholarlyiq.com
 DOMAIN-SUFFIX, vocabulary.com
 DOMAIN-SUFFIX, vocab.com
 DOMAIN-SUFFIX, zendesk.com
 DOMAIN-SUFFIX, zdassets.com
-DOMAIN-SUFFIX, orcid.org
 
 DOMAIN-SUFFIX, vps.hosting
 DOMAIN-SUFFIX, affyun.com
