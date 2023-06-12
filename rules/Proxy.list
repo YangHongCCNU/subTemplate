@@ -1,19 +1,46 @@
+#> Gcash EEPay
+DOMAIN-SUFFIX, gcash.com
+DOMAIN-SUFFIX, mynt.xyz
+DOMAIN-SUFFIX, eepay.ph
+DOMAIN-SUFFIX, appsflyer.com
+#> Proxy
+DOMAIN-SUFFIX, 122777.xyz
+DOMAIN-SUFFIX, immtel.com
+DOMAIN-SUFFIX, fuckimm.com
+DOMAIN-SUFFIX, duyaoss.com
+DOMAIN-SUFFIX, tagcdnsub.work
+DOMAIN-SUFFIX, tagsssubscribe.com
+DOMAIN-SUFFIX, hcaptcha.com
+DOMAIN-SUFFIX, prprcloud.moe
+DOMAIN-SUFFIX, creampanel.com
+DOMAIN-SUFFIX, creamdata.net
+DOMAIN-SUFFIX, ninjasub.com
+DOMAIN-SUFFIX, renzhe.cloud
+DOMAIN-SUFFIX, renzhesub.com
+DOMAIN-SUFFIX, renzhesubconverter.com
+DOMAIN-SUFFIX, texon.io
+DOMAIN-SUFFIX, huacloud.icu
+DOMAIN-SUFFIX, flower.yt
+DOMAIN-SUFFIX, huacloud.xyz
+DOMAIN-SUFFIX, flowercloud.xyz
+#> Other
 DOMAIN, vibe.community
 DOMAIN, fmmvibe.com
 DOMAIN, isapplesiliconready.com
 DOMAIN, cdn.jsdelivr.net
+DOMAIN, arxiv-org.atlassian.net
+DOMAIN, code.jquery.com
+DOMAIN, mc.yandex.ru
+DOMAIN, metal.prod.atl-paas.net
+DOMAIN, developer.akamai.com
 DOMAIN-SUFFIX, software.com
 DOMAIN-SUFFIX, codetime.dev
 DOMAIN-SUFFIX, userstylesapi.com
 DOMAIN-SUFFIX, gitbook.io
 DOMAIN-SUFFIX, gitbook.com
 DOMAIN-SUFFIX, emojipedia.org
-DOMAIN-SUFFIX, hcaptcha.com
-
 DOMAIN-SUFFIX, deepl.com
 DOMAIN-SUFFIX, collinsdictionary.com
-
-DOMAIN, developer.akamai.com
 DOMAIN-SUFFIX, fonts.net
 DOMAIN-SUFFIX, techlab-cdn.com
 DOMAIN-SUFFIX, akamai.secure.force.com
@@ -22,22 +49,6 @@ DOMAIN-SUFFIX, swiftype.com
 DOMAIN-SUFFIX, akstat.io
 DOMAIN-SUFFIX, force.com
 DOMAIN-SUFFIX, e37498.dsca.akamaiedge.net
-
-# VPN
-DOMAIN, immtel.com
-DOMAIN, fuckimm.com
-DOMAIN-SUFFIX, duyaoss.com
-DOMAIN-SUFFIX, tenglong.co
-DOMAIN-SUFFIX, prprcloud.moe
-DOMAIN-SUFFIX, creampanel.com
-DOMAIN-SUFFIX, creamdata.net
-DOMAIN-SUFFIX, renzhe.cloud
-DOMAIN-SUFFIX, renzhesub.com
-DOMAIN-SUFFIX, renzhesubconverter.com
-DOMAIN-SUFFIX, texon.io
-DOMAIN-SUFFIX, huacloud.icu
-DOMAIN-SUFFIX, flower.yt
-
 DOMAIN-SUFFIX, unogs.com
 DOMAIN-SUFFIX, javdb.com
 DOMAIN-SUFFIX, jdbstatic.com
@@ -47,31 +58,18 @@ DOMAIN-SUFFIX, missav.com
 DOMAIN-SUFFIX, tapecontent.net
 DOMAIN-SUFFIX, jdbimgs.com
 DOMAIN-SUFFIX, keeflys.com
-DOMAIN, arxiv-org.atlassian.net
-DOMAIN, code.jquery.com
-DOMAIN, mc.yandex.ru
-DOMAIN, metal.prod.atl-paas.net
-
+DOMAIN-SUFFIX, vps.hosting
+DOMAIN-SUFFIX, affyun.com
+DOMAIN-SUFFIX, racknerd.com
+DOMAIN-SUFFIX, hostloc.com
+DOMAIN-SUFFIX, trakt.tv
 DOMAIN-SUFFIX, ip.sb
 DOMAIN-SUFFIX, skk.moe
 DOMAIN-SUFFIX, ipinfo.io
 DOMAIN-SUFFIX, ip-api.com
 DOMAIN-SUFFIX, herokudns.com
 DOMAIN-SUFFIX, ipify.org
-
 DOMAIN-SUFFIX, vocabulary.com
 DOMAIN-SUFFIX, vocab.com
 DOMAIN-SUFFIX, zendesk.com
 DOMAIN-SUFFIX, zdassets.com
-
-DOMAIN-SUFFIX, vps.hosting
-DOMAIN-SUFFIX, affyun.com
-DOMAIN-SUFFIX, racknerd.com
-DOMAIN-SUFFIX, hostloc.com
-DOMAIN-SUFFIX, trakt.tv
-
-#> Gcash EEPay
-DOMAIN-SUFFIX, gcash.com
-DOMAIN-SUFFIX, mynt.xyz
-DOMAIN-SUFFIX, eepay.ph
-DOMAIN-SUFFIX, appsflyer.com

@@ -1,3 +1,4 @@
+DOMAIN-KEYWORD, sci-hub
 DOMAIN-SUFFIX, orcid.org
 DOMAIN-SUFFIX, manuscriptcentral.com
 DOMAIN-SUFFIX, overleaf.com
@@ -9,4 +10,7 @@ DOMAIN-SUFFIX, mathworks.com
 DOMAIN-SUFFIX, keras.io
 DOMAIN-SUFFIX, pytorch.org
 DOMAIN-SUFFIX, tensorflow.org
-DOMAIN-KEYWORD, sci-hub
+DOMAIN-SUFFIX, typeset.io
+DOMAIN-SUFFIX, paperdigest.org
+DOMAIN-SUFFIX, connectedpapers.com
+DOMAIN-SUFFIX, introtodeeplearning.com
