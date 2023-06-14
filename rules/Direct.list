@@ -1,6 +1,8 @@
+# NAME: Download
+PROCESS-NAME,qbittorrent-nox
+PROCESS-NAME,transmission-daemon
+DOMAIN-SUFFIX,asuscomm.com
 # NAME: Samsung
-# DOMAIN-SUFFIX: 13
-# TOTAL: 13
 DOMAIN-SUFFIX,anrdoezrs.net
 DOMAIN-SUFFIX,galaxyappstore.com
 DOMAIN-SUFFIX,galaxymobile.jp
