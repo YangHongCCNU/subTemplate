@@ -1,6 +1,7 @@
 # NAME: Download
 PROCESS-NAME,qbittorrent-nox
 PROCESS-NAME,transmission-daemon
+PROCESS-NAME,plugin_tunnel
 DOMAIN-SUFFIX,asuscomm.com
 # NAME: Samsung
 DOMAIN-SUFFIX,anrdoezrs.net
@@ -23,3 +24,4 @@ IP-CIDR,172.0.249.52/32,no-resolve
 DOMAIN,cdn.simplecss.org
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,nn.ci
+DOMAIN-SUFFIX,lencr.org
